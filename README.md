@@ -1,5 +1,6 @@
 🌅 Primera Luz AI
--Shining the first light on every story
+-Shining the first light on every story.
+
 As someone who values simplicity and discipline, I wanted my first GenAI project to cut through the noise and get to the point. I built this app to help people quickly understand if a piece of content is worth their attention.
 
 ## 🚀 Features
