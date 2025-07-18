@@ -41,11 +41,11 @@ git clone https://github.com/yourusername/primera-luz-ai.git
 cd primera-luz-ai
 
 ### 2️⃣ Create Virtual Environment
-# For Windows
+**For Windows**
 python -m venv venv
 venv\Scripts\activate
 
-# For macOS/Linux
+**For macOS/Linux**
 python3 -m venv venv
 source venv/bin/activate
 
@@ -54,13 +54,13 @@ pip install -r requirements.txt
 
 ### 4️⃣ Install and Run Ollama (for TinyLLaMA)
 ⚙️ Ollama is used to run the TinyLLaMA model locally.
-➤ Download & Install Ollama:
+➤ **Download & Install Ollama:**
 Visit: https://ollama.com/download
-➤ Pull the TinyLLaMA model:
+➤ **Pull the TinyLLaMA model:**
 ollama pull tinyllama
-➤ Start the Ollama server (if not already running):
+➤ **Start the Ollama server (if not already running):**
 ollama run tinyllama
-Note: Make sure this terminal remains running while using the app.
+**Note:** Make sure this terminal remains running while using the app.
 
 ### 5️⃣ Run the App
 streamlit run app.py
