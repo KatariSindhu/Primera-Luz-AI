@@ -34,38 +34,40 @@ As someone who values simplicity and discipline, I wanted my first GenAI project
 ![WhatsApp Image 2025-07-18 at 21 36 16_febdf1ff](https://github.com/user-attachments/assets/2f15e754-4b0f-45b9-8455-768011021c9a)
 ![WhatsApp Image 2025-07-18 at 21 40 25_eae8cfb0](https://github.com/user-attachments/assets/0236d13b-dff0-42a9-a581-0fd3930012a0)
 
-## 📦 Setup Instructions
+## 📦 Setup Instructions  
 
-### 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/primera-luz-ai.git
-cd primera-luz-ai
+### 1️⃣ Clone the Repository  
+`git clone https://github.com/yourusername/primera-luz-ai.git`  
+`cd primera-luz-ai`  
 
-### 2️⃣ Create Virtual Environment
-**For Windows:**
+### 2️⃣ Create Virtual Environment  
+**For Windows:**  
+`python -m venv venv`   
+`venv\Scripts\activate` 
 
-python -m venv venv.  
-venv\Scripts\activate
-
-**For macOS/Linux:**
-
-python3 -m venv venv
-
-source venv/bin/activate
+**For macOS/Linux:**  
+`python3 -m venv venv`    
+`source venv/bin/activate`  
 
 ### 3️⃣ Install Requirements
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ### 4️⃣ Install and Run Ollama (for TinyLLaMA)
 ⚙️ Ollama is used to run the TinyLLaMA model locally.
 
-➤ **Download & Install Ollama:**
-Visit: https://ollama.com/download
-➤ **Pull the TinyLLaMA model:**
-ollama pull tinyllama
-➤ **Start the Ollama server (if not already running):**
-ollama run tinyllama
-**Note:** Make sure this terminal remains running while using the app.
+➤ **Download & Install Ollama:**  
+Visit: https://ollama.com/download  
+➤ **Pull the TinyLLaMA model:**  
+`ollama pull tinyllama`  
+➤ **Start the Ollama server (if not already running):**  
+`ollama run tinyllama`   
+**Note:** Make sure this terminal remains running while using the app.  
 
-### 5️⃣ Run the App
-streamlit run app.py
+### 5️⃣ Run the App  
+streamlit run app.py  
+
+## ✨ Let's Connect
+
+For feedback, feature requests or collaborations:  
+Feel free to connect on [LinkedIn](www.linkedin.com/in/k-sindhu-1560a9253) or follow me on [GitHub](https://github.com/KatariSindhu).  
 
