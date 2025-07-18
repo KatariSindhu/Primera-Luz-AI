@@ -41,12 +41,14 @@ git clone https://github.com/yourusername/primera-luz-ai.git
 cd primera-luz-ai
 
 ### 2️⃣ Create Virtual Environment
-**For Windows**
+**For Windows: **
 python -m venv venv
+
 venv\Scripts\activate
 
-**For macOS/Linux**
+**For macOS/Linux: **
 python3 -m venv venv
+
 source venv/bin/activate
 
 ### 3️⃣ Install Requirements
