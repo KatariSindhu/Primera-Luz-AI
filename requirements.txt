@@ -1,0 +1,7 @@
+streamlit
+newspaper3k
+langchain
+langchain-community
+googletrans==4.0.0-rc1
+gTTS
+ollama
