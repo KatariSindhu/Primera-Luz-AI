@@ -43,8 +43,7 @@ cd primera-luz-ai
 ### 2️⃣ Create Virtual Environment
 **For Windows:**
 
-python -m venv venv
-
+python -m venv venv.  
 venv\Scripts\activate
 
 **For macOS/Linux:**
@@ -58,6 +57,7 @@ pip install -r requirements.txt
 
 ### 4️⃣ Install and Run Ollama (for TinyLLaMA)
 ⚙️ Ollama is used to run the TinyLLaMA model locally.
+
 ➤ **Download & Install Ollama:**
 Visit: https://ollama.com/download
 ➤ **Pull the TinyLLaMA model:**
