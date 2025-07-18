@@ -25,3 +25,12 @@ As someone who values simplicity and discipline, I wanted my first GenAI project
 
 “The goal is to make news easier for everyone — no matter their age, language or attention span.”
 
+![WhatsApp Image 2025-07-18 at 21 34 23_4c8e4399](https://github.com/user-attachments/assets/270117ef-b6ea-421c-a106-7c3c8852834e)
+![WhatsApp Image 2025-07-18 at 21 35 15_4584dd20](https://github.com/user-attachments/assets/d4c634fd-4d53-4dac-a4ec-37ccd1a9c9af)
+![WhatsApp Image 2025-07-18 at 21 35 43_6e7b0cf4](https://github.com/user-attachments/assets/7977c1b7-6095-40eb-9a5c-6016457bedfc)
+![WhatsApp Image 2025-07-18 at 21 36 16_febdf1ff](https://github.com/user-attachments/assets/2f15e754-4b0f-45b9-8455-768011021c9a)
+![WhatsApp Image 2025-07-18 at 21 40 25_eae8cfb0](https://github.com/user-attachments/assets/0236d13b-dff0-42a9-a581-0fd3930012a0)
+
+
+
+
