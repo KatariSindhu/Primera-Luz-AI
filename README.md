@@ -66,6 +66,23 @@ Visit: https://ollama.com/download
 ### 5️⃣ Run the App  
 streamlit run app.py  
 
+---
+
+## 🚀 What's Next?
+
+We're excited to share that **Version 2.0** of *Primera Luz AI* is in the works!
+
+🔧 Planned Enhancements:
+- 🌐 Fully deployable **online version**
+- 💬 Smoother and faster LLM integration
+- 🎨 Improved UI and UX
+- 🧠 More intelligent response handling
+- 📲 Mobile-responsive interface
+
+Stay tuned for a better, faster, and more accessible experience in the upcoming release!
+
+> 💡 Follow this repository or ⭐ star it to get notified when **v2.0** launches!
+
 ## ✨ Let's Connect
 
 For feedback, feature requests or collaborations:  
